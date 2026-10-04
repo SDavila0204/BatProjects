@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Robins_List_JOption {
     public static void main(String[] args) {
         System.out.println("An itemized list of all the robins " +
-                "(or at least the most popular ones");
+                "(or at least the most popular ones)");
 
         ArrayList<String> robins = new ArrayList<>();
 
